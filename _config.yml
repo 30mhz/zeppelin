@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "#Onmetelijke Mogelijkheden"
-email: "devfest@gdg.org.ua"
+email: "adolfo@30hmz.com"
 description: "Software eats the world"
 baseurl: "/zeppelin"
 url: "http://www.30mhz.com"
@@ -55,12 +55,11 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
+heroTitle: "#Onmetelijke Mogelijkheden <typeout> 2015"
+eventDate: "Maandag 23 maart, 2015"
 typeoutTextValues: '"", "The Netherlands","Venezuela", "Colombia", "Spain"'
-typeoutFallback: "Season"
+typeoutFallback: "IoT"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
