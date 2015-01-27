@@ -16,9 +16,9 @@ description: "Software eats the world"
 baseurl: "/zeppelin"
 url: "http://www.30mhz.com"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+googleAnalyticsTrackingId: "UA-41600887-4"
+googleAnalyticsSiteUrl: "onmetelijkemogelijkheden.30mhz.com"
+siteVerification: "bKBCNh6Vjb5QQJL8j2-vsuwU6vJqltaIvigE489ErGk"
 
 # Organizer Info
 organizerName: "Cloud CoolHunt"
