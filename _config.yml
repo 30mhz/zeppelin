@@ -63,11 +63,14 @@ heroButtons:
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About Cloud Coolhunt"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Event", image: "conference.jpg", text: "Tijdens een interactieve en collaboratieve Cloud Coolhunt gaat u samen op zoek naar de onmetelijke mogelijkheden die het Internet-der-Dingen u kan bieden.
+                                                    Carl Rohde verzorgt een presentatie op basis van het wereldwijde trendonderzoek dat hij verricht." }
+ - {title: "Blog", image: "workshop.jpg", text: "Alle participanten schrijven onder even stimulerende als strakke begeleiding, een eigen blog over wat het Internet-der-Dingen voor hun kan betekenen.
+                                                 Vervolgens lezen we elkaars blog, selecteren de blogs die ons het meest aanspreken en bediscussieren en verrijken die." }
+ - {title: "IoT", image: "hackathon.jpg", text: "Na het Internet-voor-mensen komt er nu het Internet-der-Dingen. 30MHz heeft innovatieve sensoren die onmetelijke mogelijkheden bieden.
+                                                 Op maandag 23 maart krijgt u een inspirende lezing over wat u kunt verwachten van het Internet-der-Dingen. Nu en in de nabije toekomst." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
