@@ -81,7 +81,7 @@ statisticBlock:
 latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersImage: "speakers.jpg"
 rockstarSpeakersCount: 1
 rockstarSpeakersTitle: "dr. Carl Rohde"
 rockstarSpeakersButtonText: "See all speakers"
