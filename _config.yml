@@ -137,7 +137,8 @@ ticketsOffers:
   price: "500"
   priceCurrency: "EUR"
   ticketsNumber: "150"
-  ribbon: "-5%"
+  ribbon: "-33%"
+  featured: true
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
@@ -148,8 +149,7 @@ ticketsOffers:
   price: "750"
   priceCurrency: "EUR"
   ticketsNumber: "100"
-  ribbon: "-20%"
-  featured: true
+#  ribbon: "-20%"
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
