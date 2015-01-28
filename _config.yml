@@ -87,7 +87,7 @@ latestNewsTitle: "Latest news"
 rockstarSpeakersImage: "speakers.jpg"
 rockstarSpeakersCount: 1
 rockstarSpeakersTitle: "dr. Carl Rohde"
-#rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersButtonText: "See Bio"
 
 # Location Block
 locationBlockTitle: "Location"
