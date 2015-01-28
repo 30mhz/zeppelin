@@ -172,7 +172,7 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://www.linkedin.com/company/30mhz", icon: "icon-linkedin"}
+ - {link: "https://www.linkedin.com/company/30mhz", icon: "linkedin"}
  - {link: "https://twitter.com/30mhz", icon: "twitter"}
  - {link: "https://www.facebook.com/30mhz", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
