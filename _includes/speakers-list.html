@@ -25,6 +25,7 @@
                                     <p class="position">{{ speaker.company }}</p>
                                 </figcaption>
                                 {% endif %}
+                                <p class="bio">{{ speaker.bio | strip_html }}</p>
                             </figure>
                         </div>
                         <div class="lily-bottom">
@@ -50,7 +51,7 @@
                 </div>
                 {% endfor %}
             </div> 
-            <a href="{{ site.c4pUrl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">Become a speaker</a>     
+            <!--<a href="{{ site.c4pUrl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">Become a speaker</a>     -->
         </div>
     </div>
 </section>
