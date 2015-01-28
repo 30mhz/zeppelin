@@ -172,16 +172,16 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://www.linkedin.com/company/30mhz", icon: "icon-linkedin"}
+ - {link: "https://twitter.com/30mhz", icon: "twitter"}
+ - {link: "https://www.facebook.com/30mhz", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://www.30mhz.com/", text: "30Mhz"}
+#   - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
