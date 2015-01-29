@@ -142,7 +142,7 @@ ticketsOffers:
   ticketsNumber: "20"
   ribbon: "-33%"
   featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "http://www.eventbrite.com/e/onmetelijke-mogelijkheden-2015-tickets-15543755792"
   buyButtonText: "Buy Now"
   ticketContentList: ["Speciaal voor vroegboekers bieden wij u een korting aan van € 250,-. (geldig tot 1 februari 2015) "]
   validFrom: "2014-08-25T10:00"
@@ -153,7 +153,7 @@ ticketsOffers:
   priceCurrency: "EUR"
   ticketsNumber: "5"
 #  ribbon: "-20%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "http://www.eventbrite.com/e/onmetelijke-mogelijkheden-2015-tickets-15543755792"
   buyButtonText: "Buy Now"
   ticketContentList: ["Uw slimme investering voor deelname aan deze dag bedraagt € 750,- excl BTW"]
   validFrom: "2014-10-01T00:00"
