@@ -75,10 +75,10 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "370", specialCharacter: "+", info: "ndees", detail: "from everwhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "12 billion", specialCharacter: "+", info: "by 2020", detail: "mobile connected devices"}
+ - {count: "25 billion", specialCharacter: "+", info: "by 2020", detail: "all connected devices"}
+ - {count: "$300 billion", specialCharacter: "+", info: "in 2020", detail: "of incremental revenue"}
+ - {count: "152 million", specialCharacter: "+", info: "in 2020", detail: "cars connected to the Internet worldwide"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
