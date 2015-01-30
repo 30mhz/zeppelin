@@ -72,10 +72,10 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "12 billion", specialCharacter: "+", info: "by 2020", detail: "mobile connected devices"}
- - {count: "25 billion", specialCharacter: "+", info: "by 2020", detail: "all connected devices"}
- - {count: "$300 billion", specialCharacter: "+", info: "in 2020", detail: "of incremental revenue"}
- - {count: "152 million", specialCharacter: "+", info: "in 2020", detail: "cars connected to the Internet worldwide"}
+ - {count: "12", specialCharacter: "+", info: "billion by 2020", detail: "mobile connected devices"}
+ - {count: "25", specialCharacter: "+", info: "billion by 2020", detail: "all connected devices"}
+ - {count: "300", specialCharacter: "+", info: "billion $ in 2020", detail: "of incremental revenue"}
+ - {count: "152", specialCharacter: "+", info: "million in 2020", detail: "cars connected to the Internet worldwide"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
