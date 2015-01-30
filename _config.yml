@@ -24,13 +24,13 @@ siteVerification: "bKBCNh6Vjb5QQJL8j2-vsuwU6vJqltaIvigE489ErGk"
 organizerName: "Cloud CoolHunt"
 organizerAlternateName: "Cloud CoolHunt"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerEmail: "adolfo@30mhz.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://www.30mhz.com"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+metaKeywords: "event, IoT, amsterdam, future, security, trends, Rohde, developers"
+twitterAccount: "@30mhz"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -77,8 +77,8 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "12", specialCharacter: "+", info: "billion by 2020", detail: "mobile connected devices"}
  - {count: "25", specialCharacter: "+", info: "billion by 2020", detail: "all connected devices"}
- - {count: "300", specialCharacter: "+", info: "billion $ in 2020", detail: "of incremental revenue"}
  - {count: "152", specialCharacter: "+", info: "million in 2020", detail: "cars connected to the Internet worldwide"}
+ - {count: "14.4", specialCharacter: "+", info: "trillion", detail: "of Value at Stake for Companies and Industries"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -112,12 +112,12 @@ venueSmallImage1: "venue2.jpg"
 venueSmallImage2: "venue3.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "GeWoonboot"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueFeatures: ["Een prachtige locatie met fantastisch wijds uitzicht over ‘t IJ", "Goede bereikbaarheid met eigen of openbaar vervoer en gelegen aan de innovatieve en creatieve hotspot NDSM-werf in Amsterdam Noord. ", "Zij voorziet zelf in energiebehoefte en zuivert haar eigen afvalwate"]
 
 # Tweets Feed Block
 tweetsFeedImage: "amsterdam.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "Onmetelijke Mogelijkheden"
+twitterHashTag: "OnmetelijkeMogelijkheden"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
