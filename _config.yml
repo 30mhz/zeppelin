@@ -109,7 +109,7 @@ venueSmallImage1: "venue2.jpg"
 venueSmallImage2: "venue3.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "GeWoonboot"
-venueFeatures: ["Een prachtige locatie met fantastisch wijds uitzicht over ‘t IJ", "Goede bereikbaarheid met eigen of openbaar vervoer en gelegen aan de innovatieve en creatieve hotspot NDSM-werf in Amsterdam Noord. ", "Zij voorziet zelf in energiebehoefte en zuivert haar eigen afvalwate"]
+venueFeatures: ["Een prachtige locatie met fantastisch wijds uitzicht over ‘t IJ. Goede bereikbaarheid met eigen of openbaar vervoer en gelegen aan de innovatieve en creatieve hotspot NDSM-werf in Amsterdam Noord. Zij voorziet zelf in energiebehoefte en zuivert haar eigen afvalwate"]
 
 # Tweets Feed Block
 tweetsFeedImage: "amsterdam.jpg"
