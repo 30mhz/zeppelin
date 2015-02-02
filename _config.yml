@@ -118,7 +118,7 @@ venueFeatures: ["Een prachtige locatie met fantastisch uitzicht over ‘t IJ. Ge
 tweetsFeedImage: "amsterdam.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "OnmetelijkeMogelijkheden"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterFeed: "https://www.twitter.com/30mhz"
 
 # Partners Block
 #organizersTitle: "Organizers"
@@ -182,7 +182,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:zensie@30mhz.com", text: "zensie@30mhz.com"}
+   - {link: "mailto:corjan@30mhz.com", text: "corjan@30mhz.com"}
 # -
 #  title: "FAQ"
 #  links:
