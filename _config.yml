@@ -75,10 +75,10 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "12", specialCharacter: "+", info: "billion by 2020", detail: "mobile devices"}
- - {count: "25", specialCharacter: "+", info: "billion by 2020", detail: "connected devices"}
- - {count: "152", specialCharacter: "+", info: "million in 2020", detail: "connected cars"}
- - {count: "14.4", specialCharacter: "+", info: "trillion", detail: "IoT related value added"}
+ - {count: "12", specialCharacter: "+", info: "billion by 2020", detail: "<a href="https://gigaom.com/2011/10/13/internet-of-things-will-have-24-billion-devices-by-2020/">mobile connected devices</a>"}
+ - {count: "25", specialCharacter: "+", info: "billion by 2020", detail: "<a href="https://gigaom.com/2011/10/13/internet-of-things-will-have-24-billion-devices-by-2020/">wireless connected devices</a>"}
+ - {count: "152", specialCharacter: "+", info: "million in 2020", detail: "<a href="http://www.autonews.com/article/20140110/OEM06/301109910/the-race-to-market-the-connected-car">connected cars</a>"}
+ - {count: "14.4", specialCharacter: "+", info: "trillion", detail: "<a href="https://agenda.weforum.org/2014/01/are-you-ready-for-the-internet-of-everything/">IoT related value creation</a>"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
