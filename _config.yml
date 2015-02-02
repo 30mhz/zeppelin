@@ -63,19 +63,22 @@ heroButtons:
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About Cloud Coolhunt"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "IoT", image: "hackathon.jpg", text: "Na het Internet-voor-mensen komt er nu het Internet of Things. 30MHz heeft innovatieve sensoren die onmetelijke mogelijkheden bieden.
+                                                 Op maandag 23 maart krijgt u een inspirende lezing over wat u kunt verwachten van het Internet of Things. Nu en in de nabije toekomst." }
+ - {title: "Blog", image: "workshop.jpg", text: "Alle participanten schrijven onder even stimulerende als strakke begeleiding, een eigen blog over wat het Internet of Things voor hun kan betekenen.
+                                                 Vervolgens lezen we elkaars blog, selecteren de blogs die ons het meest aanspreken en bediscussieren en verrijken die." }
+ - {title: "Event", image: "conference.jpg", text: "Tijdens een interactieve en collaboratieve Cloud Coolhunt gaat u samen op zoek naar de onmetelijke mogelijkheden die het Internet of Things u kan bieden.
+                                                    Carl Rohde verzorgt een presentatie op basis van het wereldwijde trendonderzoek dat hij verricht." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "12", specialCharacter: "+", info: "billion by 2020", detail: "mobile connected devices"}
- - {count: "25", specialCharacter: "+", info: "billion by 2020", detail: "all connected devices"}
- - {count: "152", specialCharacter: "+", info: "million in 2020", detail: "cars connected to the Internet worldwide"}
- - {count: "14.4", specialCharacter: "+", info: "trillion", detail: "of Value at Stake for Companies and Industries"}
+ - {count: "12", specialCharacter: "+", info: "billion by 2020", detail: "mobile devices"}
+ - {count: "25", specialCharacter: "+", info: "billion by 2020", detail: "connected devices"}
+ - {count: "152", specialCharacter: "+", info: "million in 2020", detail: "connected cars"}
+ - {count: "14.4", specialCharacter: "+", info: "trillion", detail: "IoT related value added"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -109,7 +112,7 @@ venueSmallImage1: "venue2.jpg"
 venueSmallImage2: "venue3.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "GeWoonboot"
-venueFeatures: ["Een prachtige locatie met fantastisch wijds uitzicht over ‘t IJ. Goede bereikbaarheid met eigen of openbaar vervoer en gelegen aan de innovatieve en creatieve hotspot NDSM-werf in Amsterdam Noord. Zij voorziet zelf in energiebehoefte en zuivert haar eigen afvalwate"]
+venueFeatures: ["Een prachtige locatie met fantastisch uitzicht over ‘t IJ. Gelegen aan de innovatieve en creatieve NDSM-werf in Amsterdam Noord. Zij voorziet zelf in energiebehoefte en zuivert haar eigen afvalwater."]
 
 # Tweets Feed Block
 tweetsFeedImage: "amsterdam.jpg"
@@ -123,10 +126,10 @@ organizersTitle: "Organizers"
 partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
-subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
-subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+#subscribeImage: "subscribe.jpg"
+#subscribeTitle: "Subscribe for updates"
+#subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+#subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
 ticketsTitle: "Pricetable"
