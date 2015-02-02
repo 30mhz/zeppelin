@@ -138,7 +138,7 @@ ticketsOffers:
   featured: true
   buyButtonLink: "http://www.eventbrite.com/e/onmetelijke-mogelijkheden-2015-tickets-15543755792"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Speciaal voor vroegboekers bieden wij u een korting aan van € 250,-. (geldig tot 1 februari 2015) "]
+  ticketContentList: ["Speciaal voor vroegboekers bieden wij u een korting aan van € 250,-."]
   validFrom: "2014-08-25T10:00"
   validThrough: "2015-02-01T23:59"
  -
