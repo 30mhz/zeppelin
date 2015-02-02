@@ -21,12 +21,12 @@ googleAnalyticsSiteUrl: "onmetelijkemogelijkheden.30mhz.com"
 siteVerification: "bKBCNh6Vjb5QQJL8j2-vsuwU6vJqltaIvigE489ErGk"
 
 # Organizer Info
-organizerName: "Cloud CoolHunt"
-organizerAlternateName: "Cloud CoolHunt"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "corjan@30mhz.com"
-organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://www.30mhz.com"
+#organizerName: "Cloud CoolHunt"
+#organizerAlternateName: "Cloud CoolHunt"
+#organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
+#organizerEmail: "corjan@30mhz.com"
+#organizerLogo: "/img/seo/organizer-logo.png"
+#organizerLink: "http://www.30mhz.com"
 
 # Head
 metaKeywords: "event, IoT, amsterdam, future, security, trends, Rohde, developers"
