@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "#Onmetelijke Mogelijkheden"
-email: "adolfo@30hmz.com"
+email: "corjan@30hmz.com"
 description: "Software eats the world"
 baseurl: "/zeppelin"
 url: "http://www.30mhz.com"
@@ -24,7 +24,7 @@ siteVerification: "bKBCNh6Vjb5QQJL8j2-vsuwU6vJqltaIvigE489ErGk"
 organizerName: "Cloud CoolHunt"
 organizerAlternateName: "Cloud CoolHunt"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "adolfo@30mhz.com"
+organizerEmail: "corjan@30mhz.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://www.30mhz.com"
 
@@ -36,8 +36,8 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "http://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+#c4pUrl: "http://bit.ly/dfua-c4p"
+#c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
 # Navigation
@@ -123,13 +123,8 @@ twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_int
 # Partners Block
 organizersTitle: "Organizers"
 #partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
-
-# Subscribe Block
-#subscribeImage: "subscribe.jpg"
-#subscribeTitle: "Subscribe for updates"
-#subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-#subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+#partnersC4sponsorsButton: "Become a sponsor"
+#email: "corjan@30hmz.com"
 
 # Tickets Block
 ticketsTitle: "Pricetable"
