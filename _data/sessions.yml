@@ -2,12 +2,12 @@
   id: 2
   title: "Inloop"
 #  place: "Hall"
-  service: true
+#  service: true
 -
-  id: 503
+  id: 3
   title: "Lunch Break"
 #  place: "Dining room"
-  service: true
+#  service: true
 -
   id: 001
   title: "Introlezing Carl Rohde; al dan niet prof.dr. Carl Rohde"
