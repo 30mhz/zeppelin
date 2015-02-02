@@ -9,7 +9,7 @@
     - {
     	startTime: "9:00",
     	endTime: "9:30",
-    	sessionIds: [2]
+    	sessionIds: [88]
     }
     - {
         startTime: "10:00",
@@ -30,7 +30,7 @@
     - {
     	startTime: "12:00",
     	endTime: "12:45",
-    	sessionIds: [3]
+    	sessionIds: [89]
     }
     - {
         startTime: "12:45",
