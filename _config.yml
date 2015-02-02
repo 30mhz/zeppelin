@@ -112,7 +112,7 @@ venueSmallImage1: "venue2.jpg"
 venueSmallImage2: "venue3.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "GeWoonboot"
-venueFeatures: ["Een prachtige locatie met fantastisch wijds uitzicht over ‘t IJ. Goede bereikbaarheid met eigen of openbaar vervoer en gelegen aan de innovatieve en creatieve hotspot NDSM-werf in Amsterdam Noord. Zij voorziet zelf in energiebehoefte en zuivert haar eigen afvalwate"]
+venueFeatures: ["Een prachtige locatie met fantastisch wijds uitzicht over ‘t IJ. Gelegen aan de innovatieve en creatieve hotspot NDSM-werf in Amsterdam Noord, voorziet zij zelf in energiebehoefte en zuivert haar eigen afvalwater."]
 
 # Tweets Feed Block
 tweetsFeedImage: "amsterdam.jpg"
@@ -126,10 +126,10 @@ organizersTitle: "Organizers"
 partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
-subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
-subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+#subscribeImage: "subscribe.jpg"
+#subscribeTitle: "Subscribe for updates"
+#subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+#subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
 ticketsTitle: "Pricetable"
