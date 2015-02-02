@@ -78,7 +78,7 @@ statisticBlock:
  - {count: "12", specialCharacter: "+", info: "billion mobile connected devices", detail: '<a href="https://gigaom.com/2011/10/13/internet-of-things-will-have-24-billion-devices-by-2020/">by 2020</a>'}
  - {count: "25", specialCharacter: "+", info: "billion wireless connected devices", detail: '<a href="https://gigaom.com/2011/10/13/internet-of-things-will-have-24-billion-devices-by-2020/">by 2020</a>'}
  - {count: "152", specialCharacter: "+", info: "million connected cars", detail: '<a href="http://www.autonews.com/article/20140110/OEM06/301109910/the-race-to-market-the-connected-car">by 2020</a>'}
- - {currency: "$" count: "14.4", specialCharacter: "+", info: "trillion IoT related value creation", detail: '<a href="https://agenda.weforum.org/2014/01/are-you-ready-for-the-internet-of-everything/">over the next 10 years</a>'}
+ - {currency: "$", count: "14.4", specialCharacter: "+", info: "trillion IoT related value creation", detail: '<a href="https://agenda.weforum.org/2014/01/are-you-ready-for-the-internet-of-everything/">over the next 10 years</a>'}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
