@@ -26,7 +26,7 @@ Breaking down the above three problems we have a number of challenges
 5. generating a massive data stream
 6. as input for realtime user defined action
 7. displayed in customizable dashboards
-8. that never every fail
+8. that never ever fail
 
 And, all of this should be easy as pie, because the only affordable way to deploy 10,000 sensors is to do it yourself. One consistent user experience, from device provisioning to dashboard customization and programming actors to notify or act in other ways.
 
