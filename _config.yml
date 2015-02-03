@@ -10,11 +10,10 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "#Onmetelijke Mogelijkheden"
+title: "Onmetelijke Mogelijkheden"
 email: "corjan@30hmz.com"
 description: "Software eats the world"
-baseurl: "http://onmetelijkemogelijkheden.30mhz.com"
-url: "http://www.30mhz.com"
+url: "http://onmetelijkemogelijkheden.30mhz.com"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-41600887-4"
 googleAnalyticsSiteUrl: "onmetelijkemogelijkheden.30mhz.com"
