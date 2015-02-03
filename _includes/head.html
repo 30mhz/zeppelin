@@ -16,7 +16,7 @@
     <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" /> 
     <meta property="og:site_name" content="{{ site.title }}" /> 
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="{% if page.url %}{{ page.url | prepend: site.url }}{% else %}{{ site.url }}{% endif %}" />
+    <meta property="og:url" content="{% if page.url %}{{ page.url | prepend: site.url }}{% else %}{{ site.url }}{% endif %}/" />
     <meta property="og:image" content="{% if page.facebook_image %}{{ page.facebook_image | prepend: site.url }}{% else %}{{ site.socialImageSrcFacebook | prepend: site.baseurl | prepend: site.url }}{% endif %}" />
     <meta property="og:description" content="{{ site.description }}" /> 
     
