@@ -27,4 +27,10 @@ IoT monitoring and visualisation can give us insights on real-time as well as hi
 
 So every “thing” in our environment can be monitored, but the question is: *what problem do we want to solve?*
 
-What is the main take-away? The IoT opens a range of new business opportunities for a variety of players that monitor, visualise and act. The Internet of Things will have a significant impact on nearly every industry, opening up new business models as well as new sources of operational efficiencies. As the cost of technologies continues to fall and the ecosystem matures, the Internet of Things will shift from a hypothetical possibility to a new way of doing business. 
+What is the main take-away? The IoT opens a range of new business opportunities for a variety of players that monitor, visualise and act. The Internet of Things will have a significant impact on nearly every industry, opening up new business models as well as new sources of operational efficiencies. As the cost of technologies continues to fall and the ecosystem matures, the Internet of Things will shift from a hypothetical possibility to a new way of doing business.
+
+<br>
+
+<christina@30mhz.com>
+
+---
