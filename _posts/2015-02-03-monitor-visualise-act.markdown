@@ -3,6 +3,7 @@ layout: post
 title:  "Monitor, visualise and act"
 date:   2015-02-03 09:00:00
 isStaticPost: false
+facebook_image: /img/posts/IoT.jpg
 ---
 The Internet of Things (IoT) is defined as "*a proposed development of the internet in which everyday objects have network connectivity, allowing them to send and receive data*” (source: English Oxford dictionary). From medical devices to parking spaces, the IoT brings more and more “things” into the digital world. According to [Gartner's latest projections](http://www.gartner.com/newsroom/id/2636073), billions of sensors and devices will be plugged into the Internet over the next few years, changing the way we perceive data and creating new business opportunities.
 
