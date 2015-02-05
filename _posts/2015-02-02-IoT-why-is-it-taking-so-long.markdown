@@ -7,7 +7,7 @@ isStaticPost: false
 ---
 
 #### IoT on the hype cycle
-<img width="200" height="auto" align="left" src="http://cdn.teslarati.com/wp-content/uploads/2014/04/fob-with-notes.jpg"> Internet of Things (IoT for initiates) is getting an immense amount of attention, lately. Examples like NEST and Tesla (though strictly speaking I dare to argue this is not very IoT) speak to the imagination. We, as individuals, love beautiful things. And, isn't it great your Tesla is telling the NEST to prepare the house for imminent arrival, while the passenger seat occupancy is triggering temperature and lighting conditions. In reality the Internet of Things is not there yet. The number examples that can be put in the IoT category is disappointingly low. There are just not many examples of massive amounts of (inter)connected *things*, yet.
+<img width="200" height="auto" align="left" src="http://cdn.teslarati.com/wp-content/uploads/2014/04/fob-with-notes.jpg"> Internet of Things (IoT for initiates) is getting an immense amount of attention, lately. Examples like NEST and Tesla (though strictly speaking I dare to argue this is not very IoT) speak to the imagination. We, as individuals, love beautiful things. And, isn't it great your Tesla is telling the NEST to prepare the house for imminent arrival, while the passenger seat occupancy is triggering temperature and lighting conditions. In reality the Internet of Things is not there yet. The number of examples that can be put in the IoT category is disappointingly low. There are just not many examples of massive amounts of (inter)connected *things*, yet.
 
 #### Where is the magic?
 Then, why are we so extremely excited? Why are companies like Cisco putting so much effort into convincing us they can make 'it' happen? How come every respectable research firm is predicting billions of *things* and trillions of dollars in value created?
@@ -26,7 +26,7 @@ Breaking down the above three problems we have a number of challenges
 5. generating a massive data stream
 6. as input for realtime user defined action
 7. displayed in customizable dashboards
-8. that never ever fail
+8. that never every fail
 
 And, all of this should be easy as pie, because the only affordable way to deploy 10,000 sensors is to do it yourself. One consistent user experience, from device provisioning to dashboard customization and programming actors to notify or act in other ways.
 
