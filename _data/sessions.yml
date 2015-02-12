@@ -22,7 +22,7 @@
   title: "Finetune lezing Jurg van Vliet"
 #  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
 #  subtype: presentation
-#  speakers: [4, 5]
+  speakers: [2]
 #  language: en
 #  complexity: "Intermediate"
 #  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
