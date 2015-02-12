@@ -84,13 +84,13 @@ latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "speakers.jpg"
+rockstarSpeakersButtonText: "See Bio"
+
 rockstarSpeakersCount: 1
 rockstarSpeakersTitle: "prof.dr. Carl Rohde"
-rockstarSpeakersButtonText: "See Bio"
-rockstarSpeakersImage: "speakers.jpg"
+
 rockstarSpeakersCount: 2
 rockstarSpeakersTitle: "Jurg van Vliet"
-rockstarSpeakersButtonText: "See Bio"
 
 # Location Block
 locationBlockTitle: "Location"
