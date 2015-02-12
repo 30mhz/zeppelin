@@ -64,11 +64,11 @@ heroButtons:
 # About Block
 aboutTitle: "About Cloud Coolhunt"
 aboutBlock:
- - {title: "IoT", image: "hackathon.jpg", text: "Na het Internet-voor-mensen komt er nu het Internet of Things. 30MHz heeft innovatieve sensoren die onmetelijke mogelijkheden bieden.
-                                                 Op maandag 20 april krijgt u een inspirende lezing over wat u kunt verwachten van het Internet of Things. Nu en in de nabije toekomst." }
- - {title: "Blog", image: "workshop.jpg", text: "Alle participanten schrijven onder even stimulerende als strakke begeleiding, een eigen blog over wat het Internet of Things voor hun kan betekenen.
-                                                 Vervolgens lezen we elkaars blog, selecteren de blogs die ons het meest aanspreken en bediscussieren en verrijken die." }
- - {title: "Event", image: "conference.jpg", text: "Tijdens een interactieve en collaboratieve Cloud Coolhunt gaat u samen op zoek naar de onmetelijke mogelijkheden die het Internet of Things u kan bieden.
+ - {title: "IoT", image: "hackathon.jpg", text: "Na het Internet-voor-mensen is er nu het Internet of Things. 30MHz zet innovatieve sensoren in die onmetelijke mogelijkheden bieden.
+                                                 Op maandag 20 april krijgt u een inspirerende lezing over wat u kunt verwachten van het Internet of Things. Nu en in de nabije toekomst." }
+ - {title: "Blog", image: "workshop.jpg", text: "Alle deelnemers schrijven onder even stimulerende als strakke begeleiding, een blog over wat het Internet of Things voor ze kan betekenen.
+                                                 Vervolgens lezen we elkaars blog, selecteren de blogs die ons het meest aanspreken en bediscussiëren en verrijken die." }
+ - {title: "Event", image: "carlrohde.jpg", text: "Tijdens een interactieve en collaboratieve Cloud Coolhunt gaat u samen op zoek naar de onmetelijke mogelijkheden die het Internet of Things u kan bieden.
                                                     Carl Rohde verzorgt een presentatie op basis van het wereldwijde trendonderzoek dat hij verricht." }
 
 # Statistic Block
@@ -85,7 +85,11 @@ latestNewsTitle: "Latest news"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "speakers.jpg"
 rockstarSpeakersCount: 1
-rockstarSpeakersTitle: "dr. Carl Rohde"
+rockstarSpeakersTitle: "prof.dr. Carl Rohde"
+rockstarSpeakersButtonText: "See Bio"
+rockstarSpeakersImage: "speakers.jpg"
+rockstarSpeakersCount: 2
+rockstarSpeakersTitle: "Jurg van Vliet"
 rockstarSpeakersButtonText: "See Bio"
 
 # Location Block
