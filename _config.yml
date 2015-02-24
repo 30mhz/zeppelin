@@ -44,7 +44,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Carl Rohde"}
+ - {permalink: "/speakers/", text: "Jurg van Vliet"}
 # - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
@@ -68,8 +68,6 @@ aboutBlock:
                                                  Op maandag 20 april krijgt u een inspirerende lezing over wat u kunt verwachten van het Internet of Things. Nu en in de nabije toekomst." }
  - {title: "Blog", image: "workshop.jpg", text: "Alle deelnemers schrijven onder even stimulerende als strakke begeleiding, een blog over wat het Internet of Things voor ze kan betekenen.
                                                  Vervolgens lezen we elkaars blog, selecteren de blogs die ons het meest aanspreken en bediscussiëren en verrijken die." }
- - {title: "Event", image: "carlrohde.jpg", text: "Tijdens een interactieve en collaboratieve Cloud Coolhunt gaat u samen op zoek naar de onmetelijke mogelijkheden die het Internet of Things u kan bieden.
-                                                    Carl Rohde verzorgt een presentatie op basis van het wereldwijde trendonderzoek dat hij verricht." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -88,7 +86,6 @@ rockstarSpeakersButtonText: "More"
 rockstarSpeakersTitle: "Speakers"
 
 rockstarSpeakersCount: 1
-rockstarSpeakersCount: 2
 
 # Location Block
 locationBlockTitle: "Location"
@@ -132,25 +129,25 @@ ticketsTitle: "Pricetable"
 ticketsOffers:
  -
   name: "Early Bird"
-  price: "500"
+  price: "150"
   priceCurrency: "EUR"
   ticketsNumber: "20"
   ribbon: "-33%"
   featured: true
   buyButtonLink: "http://www.eventbrite.com/e/onmetelijke-mogelijkheden-2015-tickets-15543755792"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Speciaal voor vroegboekers bieden wij u een korting aan van € 250,-."]
+  ticketContentList: ["Speciaal voor vroegboekers bieden wij u een korting aan van € 100,-."]
   validFrom: "2014-08-25T10:00"
   validThrough: "2015-02-01T23:59"
  -
   name: "Normal"
-  price: "750"
+  price: "250"
   priceCurrency: "EUR"
   ticketsNumber: "5"
 #  ribbon: "-20%"
   buyButtonLink: "http://www.eventbrite.com/e/onmetelijke-mogelijkheden-2015-tickets-15543755792"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Uw slimme investering voor deelname aan deze dag bedraagt € 750,- excl BTW"]
+  ticketContentList: ["Uw slimme investering voor deelname aan deze dag bedraagt € 250,- excl BTW"]
   validFrom: "2014-10-01T00:00"
   validThrough: "2014-10-23T23:59"
 #  disabled: true

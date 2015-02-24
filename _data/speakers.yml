@@ -1,16 +1,5 @@
 - 
   id: 1
-  name: "Carl"
-  surname: "Rohde"
-  company: "Science of the Time"
-  title: "Professor Trendwatching & Innovation"
-  bio: "Carl Rohde is a sociologist and leads Science of the Time (formally known as Signs of the Time) since 1992. Trendwatching & Coolhunting are his professional passion. He prefers Validated Cool Mentality Trends over hypes of the day. Because Validated Cool Mentality Trends form the only solid platform for Real Innovations. Over the years he and his network have worked with a kaleidoscope of international brands and companies. Rohde travels often to China, where he's visiting professor at the Shanghai Institute of Technology. In 2013 he became the first Professor Trendwatching & Innovation in China. In January 2014 he became Professor Applied Sciences Future Hospitalities at the Hotel School The Hague. Carl Rohde lectures worldwide at Universities, Conventions, Multinationals and International Brands with the Mentality Trends Science of the Time conducts research on."
-  thumbnailUrl: carlrohde.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/carlrohde"}
-- 
-  id: 2
   name: "Jurg"
   surname: "van Vliet"
   company: "30MHz"
