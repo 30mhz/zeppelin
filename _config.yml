@@ -50,7 +50,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "#30MHz CONTEXT <typeout> 2015"
+heroTitle: "30MHz CONTEXT <typeout> 2015"
 eventDate: "Monday, April 20, 2015"
 typeoutTextValues: '"", "The Netherlands","Venezuela", "Colombia", "Spain"'
 typeoutFallback: "IoT"
@@ -129,7 +129,7 @@ ticketsOffers:
   featured: true
   buyButtonLink: "http://www.eventbrite.com/e/onmetelijke-mogelijkheden-2015-tickets-15543755792"
   buyButtonText: "Participate"
-  ticketContentList: ["The fee of 30MHz Context is € 150,-."]
+  ticketContentList: ["The fee of 30MHz CONTEXT is € 150,-."]
   validFrom: "2014-08-25T10:00"
   validThrough: "2015-04-19T23:59"
 
