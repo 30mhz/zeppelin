@@ -43,19 +43,19 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
 # - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
-# bottomNavigationLinks:
+bottomNavigationLinks:
 # - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
-# rightNavigationButtons:
+rightNavigationButtons:
 # - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "#30MHz CONTEXT <typeout> 2015"
-eventDate: "Maandag 20 april, 2015"
+eventDate: "Monday, April 20, 2015"
 typeoutTextValues: '"", "The Netherlands","Venezuela", "Colombia", "Spain"'
 typeoutFallback: "IoT"
 heroButtons:
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {permalink: "/#tickets", text: "Participate"}
 
 # About Block
 aboutTitle: "About 30MHz CONTEXT"
@@ -128,7 +128,7 @@ ticketsOffers:
   ribbon: "-33%"
   featured: true
   buyButtonLink: "http://www.eventbrite.com/e/onmetelijke-mogelijkheden-2015-tickets-15543755792"
-  buyButtonText: "Buy Now"
+  buyButtonText: "Participate"
   ticketContentList: ["The fee of 30MHz Context is € 150,-."]
   validFrom: "2014-08-25T10:00"
   validThrough: "2015-04-19T23:59"
