@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "30MHz CONTEXT"
 email: "corjan@30hmz.com"
-description: "Sensors"
+description: "Sensors for everyone!"
 url: "http://context.30mhz.com"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-41600887-4"
@@ -28,12 +28,11 @@ organizerLogo: "/img/seo/logo_zensie.png"
 organizerLink: "http://www.30mhz.com"
 
 # Head
-metaKeywords: "event, IoT, amsterdam, future, security, trends, developers, sensor, internet of things, internet of everything, m2m, port of amsterdam, postnl, human, ggz"
+metaKeywords: "event, IoT, amsterdam, future, security, trends, developers, sensor, internetofthings, internetofeverything, m2m, port of amsterdam, postnl, human, ggz"
 twitterAccount: "@30mhz"
 socialImageSrcGooglePlus: "/img/seo/logo_zensie.png"
 socialImageSrcTwitter: "/img/seo/logo_zensie.png"
 socialImageSrcFacebook: "/img/seo/logo_zensie.png"
-
 
 # Navigation
 navigationLinks:
@@ -52,7 +51,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "30MHz CONTEXT <typeout> 2015"
 eventDate: "Monday, April 20, 2015"
-typeoutTextValues: '"", "The Netherlands","Venezuela", "Colombia", "Spain"'
+typeoutTextValues: '"The Netherlands","Venezuela", "Colombia", "Spain"'
 typeoutFallback: "IoT"
 heroButtons:
  - {permalink: "/#tickets", text: "Participate"}
@@ -60,8 +59,8 @@ heroButtons:
 # About Block
 aboutTitle: "About 30MHz CONTEXT"
 aboutBlock:
- - {title: "Sensors", image: "hackathon.jpg", text: "" }
- - {title: "Blog", image: "workshop.jpg", text: "" }
+ - {title: "Sensors", image: "hackathon.jpg", text: "some text" }
+ - {title: "Blog", image: "workshop.jpg", text: "some text" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -89,7 +88,7 @@ eventStreetAddress: "Overhoeksplein"
 eventAddressLocality: "Amsterdam"
 eventPostalCode: "1031KS"
 eventAddressCountry: "Nederland"
-eventStartTime: "2015-04-22T10:00"
+eventStartTime: "2015-04-20T10:00"
 eventDoorTime: "09:00"
 eventEndTime: "2015-04-20T16:00"
 eventPlaceCoordinates: "52.384119, 4.902906"
@@ -164,7 +163,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: ""
+aboutUs: "Something about us..."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
@@ -176,3 +175,24 @@ findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
 logisticsMapCenterCoordinates: "52.384119, 4.902906"
 logisticsMapMobileCenterCoordinates: "52.384119, 4.902906"
+
+# do NOT delete below this line, it will break the build
+# Hackathon
+enableHackathon: false
+
+# Hackathon Location Block
+hackathonLocationBlockTitle: "Location"
+hackathonLocationName: "Communa"
+hackathonLocationLink: "http://communa.net.ua/"
+hackathonStreetAddress: "1 Halytska St"
+hackathonAddressLocality: "Lviv"
+hackathonAddressLocalityRegion: "Lvivska"
+hackathonPostalCode: "79000"
+hackathonAddressCountry: "Ukraine"
+hackathonTimeTitle: "Hack through"
+hackathonStartTime: "2014-10-24T10:00"
+hackathonDoorTime: "09:00"
+hackathonEndTime: "2014-10-25T00:00"
+hackathonPlaceCoordinates: "49.840999, 24.031144"
+hackathonMapCenterCoordinates: "49.840696, 24.028754"
+hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
