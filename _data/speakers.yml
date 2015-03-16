@@ -75,14 +75,14 @@
   rockstar: yes
   social:
     - {name: "twitter", link: "https://twitter.com/pveugen"}
--
-  id: 10
-  name: "Jurg"
-  surname: "van Vliet"
-  company: "30MHz"
-  title: "CEO"
-  bio: "The driving force behind 30Mhz. Jurg began his career at Phillips Research and has since founded several successful software engineering and web consultancy businesses, including 2Yellows and 30MHz parent, 9apps. Jurg is a world leading expert on Amazon AWS having written several introductory and advanced books (co-authored with Jasper and Flavia). He has expertise through the value chain in software engineering, software and systems architecture and mobile software. He brings vision, drive and relentless creativity and a huge desire to build a leading and lasting technology company."
-  thumbnailUrl: jurg.jpg
-  rockstar: yes
-  social:
-    - {name: "twitter", link: "https://twitter.com/truthtrap"}
+#-
+#  id: 10
+#  name: "Jurg"
+#  surname: "van Vliet"
+#  company: "30MHz"
+#  title: "CEO"
+#  bio: "The driving force behind 30Mhz. Jurg began his career at Phillips Research and has since founded several successful software engineering and web consultancy businesses, including 2Yellows and 30MHz parent, 9apps. Jurg is a world leading expert on Amazon AWS having written several introductory and advanced books (co-authored with Jasper and Flavia). He has expertise through the value chain in software engineering, software and systems architecture and mobile software. He brings vision, drive and relentless creativity and a huge desire to build a leading and lasting technology company."
+#  thumbnailUrl: jurg.jpg
+#  rockstar: yes
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/truthtrap"}

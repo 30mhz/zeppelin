@@ -59,8 +59,9 @@ heroButtons:
 # About Block
 aboutTitle: "About 30MHz CONTEXT"
 aboutBlock:
- - {title: "Sensors", image: "hackathon.jpg", text: "some text" }
- - {title: "Blog", image: "workshop.jpg", text: "some text" }
+ - {title: "Internet of Things", image: "IoT.jpg", text: "Internet of Things (IoT for initiates) is getting an immense amount of attention, lately. Examples like NEST and Tesla (though strictly speaking I dare to argue this is not very IoT) speak to the imagination. We, as individuals, love beautiful things. And, isn’t it great your Tesla is telling the NEST to prepare the house for imminent arrival, while the passenger seat occupancy is triggering temperature and lighting conditions. In reality the Internet of Things is not there yet. The number of examples that can be put in the IoT category is disappointingly low. There are just not many examples of massive amounts of (inter)connected things, yet." }
+ - {title: "Connecting Sensors", image: "sensor.jpg", text: "So, how about 'just connecting sensors'?! Our sensory talents as human beings are remarkable. We can see, hear, taste, smell, and feel our way through the world. And each of these senses are so normal we don’t even think about it very much, unless we are deprived of input. Because sense is so close to our nature, we understand the value of solutions to the problems above. But, how do you collect, store and work with the data? Imagine what it takes to solve this problem for 10k sensors. All the hard problems are there: hardware (manufacturing), distributed systems, big data, realtime data analysis, cross-device user experience, and healthcare reliability." }
+ - {title: "Where is the Utility?", image: "utility.jpg", text: "April 20 we will explore the utility of IoT in general, and more specifically sensors. We will listen to various speakers, telling their sensor or IoT stories. Some will be concrete, others will be more conceptual. They will broadly cover sensors, ranging from consumer and healthcare to more industrial applications. The presentations will be followed by a brainstorm (in 4 different groups). With your colleagues you can explore each others IoT dreams, problems and challenges." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
