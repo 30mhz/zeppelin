@@ -1,5 +1,82 @@
 - 
   id: 1
+  name: "Thimon"
+  surname: "de Jong"
+  company: "Whetston"
+  title: "Speaker"
+  bio: "Thimon has been presenting his perspective on future change for over ten years at companies like Ikea, Aon, Deloitte, Tetra Pak, Samsung, Unilever, Rabobank, Philips, GDF Suez, Citywire, RTL and Coca-Cola. He regularly addresses international conference audiences in a variety of industries. Thimon is also a co-producer and lecturer of an executive training program at the University of Utrecht which focusses on sociocultural trends and how these can be practically applied to business strategy. Thimon is a former insights & strategy director at TrendsActive, researcher at FreedomLab Future Studies and editor-in-chief of RELOAD Magazine."
+  thumbnailUrl: thimon.jpg
+  rockstar: yes
+  social:
+    - {name: "twitter", link: "https://twitter.com/thimon"}
+- 
+  id: 2
+  name: "Joep"
+  surname: ""
+  company: "Whetston"
+  title: ""
+  bio: ""
+  thumbnailUrl: joep.jpg
+  rockstar: yes
+  social:
+    - {name: "twitter", link: "https://twitter.com/joep"}
+- 
+  id: 3
+  name: "Peter"
+  surname: "Klumpenaar"
+  company: "Oipinio"
+  title: "Innovator"
+  bio: ""
+  thumbnailUrl: peter.jpg
+  rockstar: yes
+  social:
+    - {name: "twitter", link: "https://twitter.com/klump61"}
+- 
+  id: 4
+  name: "Joost"
+  surname: "Zuideman"
+  company: "Port of Amsterdam"
+  title: "Researcher Strategy and Innovation"
+  bio: ""
+  thumbnailUrl: joost.jpg
+  rockstar: yes
+  social:
+    - {name: "twitter", link: "https://twitter.com/joostzuidema"}
+- 
+  id: 5
+  name: "TBD"
+  surname: ""
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: tbd.jpg
+  rockstar: yes
+  social:
+    - {name: "twitter", link: "https://twitter.com/tbd"}
+- 
+  id: 6
+  name: "TBD"
+  surname: ""
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: tbd.jpg
+  rockstar: yes
+  social:
+    - {name: "twitter", link: "https://twitter.com/tbd"}
+- 
+  id: 7
+  name: "Paul"
+  surname: "Veugen"
+  company: "Human"
+  title: "CEO"
+  bio: "Co-founded Human (http://human.co), where I can use my skills in design, product and people to help people making better decisions about their activity and health. Extreme focus on changing behavior and turning data into action."
+  thumbnailUrl: paul.jpg
+  rockstar: yes
+  social:
+    - {name: "twitter", link: "https://twitter.com/pveugen"}
+-
+  id: 10
   name: "Jurg"
   surname: "van Vliet"
   company: "30MHz"

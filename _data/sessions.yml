@@ -1,64 +1,41 @@
 -
-  id: 88
-  title: "Inloop"
-#  place: "Hall"
-#  service: true
--
-  id: 89
-  title: "Lunch Break"
-#  place: "Dining room"
-#  service: true
+  id: 000
+  title: "Coffee & tea"
 -
   id: 001
-  title: "Introlezing TBD"
-#  description: "TBD"
-#  subtype: workshop
+  title: "Introduction"
   speakers: [1]
-#  language: en
-#  complexity: "Intermediate"
-#  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 002
-  title: "Finetune lezing Jurg van Vliet"
-#  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
-#  subtype: presentation
+  title: "Sensors in General (Shell)"
   speakers: [2]
-#  language: en
-#  complexity: "Intermediate"
-#  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-#  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 003
-  title: "Uitleg van de Coolhunt activiteiten die we van de participanten verwachten"
-#  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
-#  subtype: presentation
-#  speakers: [4]
-#  language: en
-#  complexity: "Intermediate"
-#  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  title: "Augmenting Healthcare (GGZ)"
+  speakers: [3]
 -
   id: 004
-  title: "Opwarm sessies in groepen"
-#  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-#  subtype: keynote
-#  speakers: [6]
-#  language: uk
-#  complexity: "Beginner"
-#  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-#  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "Industrial Infrastructure (Port of Amsterdam)"
+  speakers: [4]
 -
   id: 005
-  title: "Participanten werken aan hun eigen Cool Seed of the New"
-#  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-#  subtype: keynote
-#  speakers: [7]
-#  language: en
-#  complexity: "Expert"
-#  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-#  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "TBD"
+  speakers: [5]
 -
   id: 006
-  title: "Participanten lezen in de virtuele workpace wat de anderen hebben bij gedragen en reflecteren daar virtueel op"
+  title: "TBD"
+  speakers: [6]
 -
   id: 007
-  title: "Eindbepsrekingen"
+  title: "Apple Watches"
+  speakers: [7]
+-
+  id: 100
+  title: "Lunch Break"
+-
+  id: 101
+  title: "Brainstorm (in 4 groups)"
+-
+  id: 102
+  title: "Wrap-up"
+  speakers: [1]
