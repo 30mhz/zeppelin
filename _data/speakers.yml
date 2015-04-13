@@ -11,26 +11,26 @@
     - {name: "twitter", link: "https://twitter.com/thimon"}
 - 
   id: 2
-  name: "TBD"
-  surname: ""
+  name: "Alexander"
+  surname: "Witteveen"
   company: ""
   title: ""
   bio: ""
-  thumbnailUrl: tbd.jpg
+  thumbnailUrl: alexander.png
   rockstar: yes
   social:
-    - {name: "twitter", link: "https://twitter.com/tbd"}
+    - {name: "twitter", link: "https://twitter.com/Schmaqos"}
 - 
   id: 3
-  name: "Peter"
-  surname: "Klumpenaar"
-  company: "Oipinio"
-  title: "Innovator"
+  name: "Willem"
+  surname: "Noyons"
+  company: "First Poligon"
+  title: ""
   bio: ""
-  thumbnailUrl: peter.jpg
+  thumbnailUrl: willem.jpg
   rockstar: yes
   social:
-    - {name: "twitter", link: "https://twitter.com/klump61"}
+    - {name: "linkedin", link: "https://nl.linkedin.com/pub/willem-noyons/b/454/7a9"}
 - 
   id: 4
   name: "Joost"
