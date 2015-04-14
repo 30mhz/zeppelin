@@ -26,11 +26,6 @@
     }
     - {
     	startTime: "10:45",
-    	endTime: "11:00",
-    	sessionIds: [004]
-    }
-    - {
-    	startTime: "11:00",
     	endTime: "11:15",
     	sessionIds: [000]
     }

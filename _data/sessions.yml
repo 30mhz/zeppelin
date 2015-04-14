@@ -7,28 +7,24 @@
   speakers: [1]
 -
   id: 002
-  title: "Sensors Thuis"
-  speakers: [2]
+  title: "Apple Watches"
+  speakers: [7]
 -
   id: 003
-  title: "Virtueel (gebouw)beheer"
+  title: "Virtual maintenance"
   speakers: [3]
 -
   id: 004
-  title: "Voelen in de Haven"
-  speakers: [4]
+  title: "Sensors Home"
+  speakers: [2]
 -
   id: 005
-  title: "TBD"
-  speakers: [5]
+  title: "Sensing the Harbor"
+  speakers: [4]
 -
   id: 006
-  title: "TBD"
-  speakers: [6]
--
-  id: 007
-  title: "Apple Watches"
-  speakers: [7]
+  title: "Sensing 'everything'"
+  speakers: [5]
 -
   id: 100
   title: "Lunch Break"

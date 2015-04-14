@@ -44,12 +44,12 @@
     - {name: "twitter", link: "https://twitter.com/joostzuidema"}
 - 
   id: 5
-  name: "TBD"
-  surname: ""
-  company: ""
-  title: ""
+  name: "Cor Jan"
+  surname: "Holwerde"
+  company: "30MHz"
+  title: "Chief of Customer Experience"
   bio: ""
-  thumbnailUrl: tbd.jpg
+  thumbnailUrl: corjan.jpg
   rockstar: yes
   social:
     - {name: "twitter", link: "https://twitter.com/tbd"}
